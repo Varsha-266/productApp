@@ -1,0 +1,1 @@
+using sale as service from '../../srv/products';
